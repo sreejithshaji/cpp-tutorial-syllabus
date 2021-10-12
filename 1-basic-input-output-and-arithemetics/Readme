@@ -1,0 +1,28 @@
+## 1.  Basical operations and arithemetical examples
+
+1. `Helloworld program `
+   
+    Print helloworld in the console using cpp
+
+2. `Cin and Cout familarisation`
+    write a program to take an input number from the user and print it in the console .
+3. `Basic arithemetical operations `
+    
+    3.1 Write program to add two numbers entered by the user 
+
+        Eg :
+
+        PROGRAM TO ADD TWO NUMBERS
+
+        Enter first number : 2
+        Enter second number : 10
+        Output : 12
+
+    3.2 Write a program for subtracting two numbers from the user
+
+    3.3 Multiplication
+
+    3.4 Division
+
+    3.5 write a program to devide two numbers entered by the user . Store and display both quatient and reminder 
+
