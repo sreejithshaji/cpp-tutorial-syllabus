@@ -31,7 +31,7 @@ This is repository to learn basic CPP . Here we have a good syllabus and sample 
     3.5 write a program to devide two numbers entered by the user . Store and display both quatient and reminder 
 
 
-## 1.  IF LOOP FAMILIARIZATION
+## 2.  IF LOOP FAMILIARIZATION
 
 1. `basic if `
     
