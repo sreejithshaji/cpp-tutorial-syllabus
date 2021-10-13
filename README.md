@@ -101,3 +101,6 @@ This is repository to learn basic CPP . Here we have a good syllabus and sample 
     If mark is under D print student is failed
 
     ( use the concepts of : if , < , > ,&& )
+    
+5. ` odd or even `
+   Write a program to print even if the entered number is even and also need to print odd if the entered number is an odd number . 
