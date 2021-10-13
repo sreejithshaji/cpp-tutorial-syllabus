@@ -109,3 +109,12 @@ This is repository to learn basic CPP . Here we have a good syllabus and sample 
 6. `OR boolean familiarization`
    Write a program to print yes if entered number is 1 or 100 
    else print no
+7. `if-loop advanced conditions`
+   Write a program to print "it is a negative number " if the user enter a negative number number . 
+   else we need to add the entered number with 3 and after that check if the result is an odd number or an even number . 
+   If the numbre is odd print " the number is : (print the number here) and it is an odd number "
+   else print it is an even number. 
+   NOTE: 
+      Do not write full code at once . Do it step by step . First check the first if contition and is it working or not . you can use cout function to check is the logic working correctly or not.
+      
+      After that do the second section and check if its working or not . 
