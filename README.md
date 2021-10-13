@@ -104,3 +104,8 @@ This is repository to learn basic CPP . Here we have a good syllabus and sample 
     
 5. ` odd or even `
    Write a program to print even if the entered number is even and also need to print odd if the entered number is an odd number . 
+   
+   
+6. `OR boolean familiarization`
+   Write a program to print yes if entered number is 1 or 100 
+   else print no
